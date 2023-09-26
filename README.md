@@ -15,7 +15,7 @@ Script basé sur les sources [https://github.com/MysticRyuujin/guac-install](htt
 
 ### Télécharger directement depuis :
 
-`wget https://github.com/zazazouthecat/guac-ext-history/blob/main/guac-ext-history-install.sh -O guac-ext-history-install.sh`
+`wget https://github.com/zazazouthecat/guac-ext-history/raw/main/guac-ext-history-install.sh -O guac-ext-history-install.sh`
 
 ### Rendre le script executable:
 
