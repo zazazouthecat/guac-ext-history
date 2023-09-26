@@ -15,7 +15,7 @@ Script basé sur les sources [https://github.com/MysticRyuujin/guac-install](htt
 
 ### Télécharger directement depuis :
 
-`wget https://git.io/JEz9u -O guac-ext-history-install.sh`
+`wget https://github.com/zazazouthecat/guac-ext-history/blob/main/guac-ext-history-install.sh -O guac-ext-history-install.sh`
 
 ### Rendre le script executable:
 
@@ -39,13 +39,10 @@ ${GUAC_CLIENT_HOSTNAME}   --- Le nom d'hôte de l'utilisateur actuel
 ```
 
 
-
-il faudra exploiter la commande `guacenc` pour encoder la video 
-
 il faudra exploiter la commande `guaclog` pour encoder les frappes clavier
 
 ### 🔹 Exemple d'enregistrement
-![alt text](https://github.com/zazazouthecat/guac-install/blob/main/images/rec_guac.png?raw=true)
+
 
 ### 🔹 Exemple d'encodage frappes clavier
 
